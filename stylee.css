@@ -1,0 +1,205 @@
+ /* Services Section */
+        .div1 {
+            padding: 60px 0;
+        }
+
+        .i1 {
+            font-size: 40px;
+            color: #6c63ff;
+        }
+
+        .h1 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .p1 {
+            font-size: 14px;
+            color: #666;
+            margin-top: 10px;
+        }
+
+        /* Collections Section */
+        .div2 {
+            padding: 60px 0;
+        }
+
+        .div3 {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .img1 {
+            width: 100%;
+            height: auto;
+        }
+
+        .div4 {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            color: white;
+        }
+
+        .p2 {
+            font-size: 12px;
+            letter-spacing: 2px;
+            margin: 0;
+        }
+
+        .h2 {
+            font-size: 32px;
+            font-weight: bold;
+        }
+/* ================= GENERAL ================= */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ================= NAVBAR ================= */
+.navbar-brand {
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.nav-link {
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin: 0 8px;
+}
+
+.nav-link:hover {
+    color: #7c7cff;
+}
+
+/* Dropdown menu */
+.dropdown-menu {
+    border-radius: 0;
+    border: none;
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.1);
+}
+
+.dropdown-item {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.dropdown-item:hover {
+    background-color: #f2f2f2;
+}
+
+/* ================= HERO SECTION ================= */
+.div1 {
+    background-color: #a7f3ec;
+    padding: 80px 0;
+}
+
+.h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.p1 {
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    max-width: 450px;
+}
+
+/* Button */
+.btn-primary {
+    background-color: #7c7cff;
+    border: none;
+    padding: 12px 28px;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.btn-primary:hover {
+    background-color: #5f5fd8;
+}
+
+/* ================= ICONS ================= */
+.bi {
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.badge {
+    font-size: 10px;
+}
+
+/* ================= IMAGE ================= */
+img {
+    max-width: 100%;
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 768px) {
+    .h1 {
+        font-size: 36px;
+    }
+
+    .div1 {
+        text-align: center;
+    }
+
+    .p1 {
+        margin: auto;
+    }
+}
+ /* Services Section */
+        .div1 {
+            padding: 60px 0;
+        }
+
+        .i1 {
+            font-size: 40px;
+            color: #6c63ff;
+        }
+
+        .h1 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .p1 {
+            font-size: 14px;
+            color: #666;
+            margin-top: 10px;
+        }
+
+        /* Collections Section */
+        .div2 {
+            padding: 60px 0;
+        }
+
+        .div3 {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .img1 {
+            width: 100%;
+            height: auto;
+        }
+
+        .div4 {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            color: white;
+        }
+
+        .p2 {
+            font-size: 12px;
+            letter-spacing: 2px;
+            margin: 0;
+        }
+
+        .h2 {
+            font-size: 32px;
+            font-weight: bold;
+        }
